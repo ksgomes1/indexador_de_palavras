@@ -14,7 +14,7 @@ Busca de Palavras: O usuário pode realizar buscas por palavras no índice, obte
 Compile o programa utilizando um compilador C. 
 
 **Execução:** <br>
-Execute o programa, fornecendo o nome do arquivo de texto e o tipo de índice desejado: ./indexador <nome_arquivo> <tipo_indice>
+Execute o programa, fornecendo o nome do arquivo de texto e o tipo de índice desejado: ./programa <nome_arquivo> <tipo_indice>
 
 **Interatividade:** <br>
 Interaja com o programa: <br>
